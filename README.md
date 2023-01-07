@@ -1,1 +1,2 @@
-TinDog Starting Files
+#Tindog
+A UI of tinder for dogs. 
